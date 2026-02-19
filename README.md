@@ -89,4 +89,7 @@ ROADvision_Lagos/
 *The Creative Renaissance Man*  
 *Building Nigeria's Digital Infrastructure Future.*
 
+#### 🖋️ [Manifesto of the Digital Polymath: A Letter of Capability](./RENAISSANCE_POLYMATH_LETTER.md)
+*Explore the vision and 20-year technical lineage of the ROADvision_Lagos Architect.*
+
 #LagosSentinel #AIInfrastructure #RoadVision #MrIridescent #NigeriaTech #SmartCityLagos #YOLOv8 #SatelliteAnalysis #FloodCorrelation #LagosInfrastructure
