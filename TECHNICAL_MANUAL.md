@@ -67,8 +67,22 @@ ROADvision_Lagos is a high-fidelity AI infrastructure governance platform design
 | **LASTMA Command Link** | WebSocket Real-time Hub | Direct traffic diversion suggestions. |
 | **Autonomous Repair Bot** | Mock Dispatch API | Night-time automated road patching. |
 | **Global Lagos Map** | Persistent Spatial Hub | Crowdsourced city-wide road health overview. |
+| **Coordinated UAV Swarm** | AI Swarm Orchestrator | Real-time mapping of all 20 Lagos LGAs. |
 
 ---
+
+## 🚁 5. Coordinated AI UAV Swarm (Autonomous Mapping)
+
+### 5.1 Swarm Orchestration Logic
+- **Swarm Size**: 100+ Intelligent UAVs.
+- **Coverage**: Systematic scanning of 20 Local Government Areas (LGAs) of Lagos.
+- **Real-time Ingestion**: Continuous road health telemetry transmitted via the `UAVSwarmOrchestrator` service.
+- **Critical Alerts**: AI-verified anomaly detection for rapid government intervention.
+
+### 5.2 Accessing the Swarm Dashboard
+1. Launch the **RoadVision_Frontend**.
+2. Navigate to `http://localhost:3000/uav-swarm`.
+3. Monitor real-time mapping progress per LGA and live intelligence feeds.
 
 ## 🔧 5. Troubleshooting & FAQ
 - **"Satellite Scan Failed"**: Ensure you have network connectivity to reach the mock satellite analysis endpoint.

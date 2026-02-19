@@ -20,8 +20,20 @@ from datetime import datetime
 from app.services.satellite_sentinel import satellite_sentinel
 from app.services.flood_correlation import flood_service
 from app.services.contractor_audit import contractor_audit
+from app.services.uav_swarm_orchestrator import orchestrator
 
 router = APIRouter()
+
+@router.get("/uav/swarm-status")
+async def get_uav_swarm_status():
+    """COORDINATED UAV SWARM: Real-time mapping and monitoring of Lagos LGAs"""
+    orchestrator.update_swarm_status()
+    return orchestrator.get_summary()
+
+@router.get("/uav/critical-alerts")
+async def get_uav_critical_alerts():
+    """COORDINATED UAV SWARM: Immediate alerts for severe road failures"""
+    return orchestrator.get_critical_alerts()
 
 @router.get("/city/flood-risk")
 async def get_flood_risk(region: str = "Lekki", rainfall_mm: float = 50.0):

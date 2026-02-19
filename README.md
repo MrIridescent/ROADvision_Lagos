@@ -25,6 +25,9 @@ A real-time WebSocket hub providing **LASTMA** (Lagos State Traffic Management A
 ### 🛡️ 4. Contractor Audit & Verification Portal
 An AI-verified accountability ledger. Contractors submit "Before/After" footage of repairs, and the AI verifies the maintenance quality before government funds are released.
 
+### 🚁 5. Coordinated AI UAV Swarm (Autonomous Mapping)
+A swarm of 100+ AI-powered UAVs mapping every road in Lagos state in real-time. Covering all 20 LGAs, the swarm identifies road issues before they escalate, transmitting critical alerts directly to the Ministry of Works.
+
 ---
 
 ## 🚀 Turnkey / Noob-Friendly Setup
