@@ -1,6 +1,8 @@
 # ROADvision_Lagos: Environment Specifications
 **Lead Architect**: David Akpoviroro Oke (MrIridescent)
 
+#LagosEnv #AIInfrastructure #RoadVision #MrIridescent #NVIDIA #PyTorch #NextJS #TurnkeyDeploy
+
 This document outlines the optimal deployment environments for the ROADvision_Lagos AI infrastructure sentinel.
 
 ---

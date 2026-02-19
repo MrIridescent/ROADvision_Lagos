@@ -1,6 +1,8 @@
 # ROADvision_Lagos: Traffic Mitigation & Infrastructure Strategy
 **Lead Architect**: David Akpoviroro Oke (MrIridescent)
 
+#LagosTraffic #LagosSentinel #RoadVision #MrIridescent #InfrastructureStrategy #LASTMA #NigeriaRoads #SmartLagos
+
 ROADvision_Lagos is a high-fidelity AI infrastructure sentinel designed to disrupt the cycle of road decay in Nigeria. It moves beyond passive detection into predictive maintenance and real-time traffic governance.
 
 ---

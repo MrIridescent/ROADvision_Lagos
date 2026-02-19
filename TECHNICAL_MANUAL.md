@@ -3,6 +3,8 @@
 **Lead Developer**: David Akpoviroro Oke (MrIridescent)
 **Specialization**: Nigerian Road Infrastructure & Traffic Optimization
 
+#LagosSentinel #TechnicalManual #AIInfrastructure #RoadVision #MrIridescent #LagosInfra #NigerianTech
+
 ---
 
 ## 🇳🇬 1. Abstract: The Guardian of Lagos Roads

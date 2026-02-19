@@ -85,3 +85,5 @@ ROADvision_Lagos/
 **David Akpoviroro Oke (MrIridescent)**  
 *The Creative Renaissance Man*  
 *Building Nigeria's Digital Infrastructure Future.*
+
+#LagosSentinel #AIInfrastructure #RoadVision #MrIridescent #NigeriaTech #SmartCityLagos #YOLOv8 #SatelliteAnalysis #FloodCorrelation #LagosInfrastructure
