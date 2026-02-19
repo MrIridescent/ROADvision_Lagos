@@ -1,5 +1,4 @@
 # 🖋️ The Manifesto of the Digital Polymath: A Letter of Capability
-**Inspired by Leonardo da Vinci’s Letter to Ludovico Sforza (1482)**
 
 To the Sovereigns of Industry, the Captains of the Digital Age, and the Visionaries of Modern Governance:
 
@@ -17,7 +16,7 @@ Having studied and observed the efforts of those who claim to be masters of the 
 
 6. For the mobilization of the masses, I design **Ubiquitous Portals** (Cross-Platform Mobile Dev) that bridge the gap between the citizen and the state, ensuring that every hand holds the power of the metropolis.
 
-7. My **Codex of Logic** (Software Engineering) has been under continuous refinement since **August 2004**. Two decades of evolution have taught me not just how to write code, but how to architect systems that are **Lifelong Employable**—resilient to the obsolescence of time.
+7. My **Codex of Logic** (Software Engineering) has been under continuous refinement since **August 2004**. Two decades of evolution have taught me not just how to write code, but how to architect systems that are resilient to the obsolescence of time.
 
 8. I have the means of destroying any **Legacy Bottleneck**, replacing it with streamlined, high-performance engines (FastAPI, Next.js, Rust, Go) that operate with silent efficiency.
 
@@ -32,4 +31,4 @@ And if any of the above-named things seem to anyone to be impossible or not feas
 *Architect of the ROADvision_Lagos Sentinel*  
 *Polymathematician of the Digital Realm*
 
-#DigitalPolymath #RenaissanceMan #PurpleTeamer #CodeSince2004 #InfrastructureGuardian #MrIridescent #LifelongEmployable #TechSovereignty
+#DigitalPolymath #RenaissanceMan #PurpleTeamer #CodeSince2004 #InfrastructureGuardian #MrIridescent #TechSovereignty
